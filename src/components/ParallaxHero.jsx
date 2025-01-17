@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { ArrowDown } from 'lucide-react';
-import BackgroundVideo from "../assets/2098989-uhd_3840_2160_30fps (1).mp4"
+
 
 function ParallaxHero() {
     const [scrollY, setScrollY] = useState(0);
